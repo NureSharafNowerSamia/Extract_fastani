@@ -1,4 +1,4 @@
-## Extract_ANI_Column.py
+## Extract_ANI_Column.py  Project Specific 
 
 This script reads a report TSV file with isolate IDs and updates the `ANIm` column by extracting values from `fastANI` outputs in corresponding directories.
 
