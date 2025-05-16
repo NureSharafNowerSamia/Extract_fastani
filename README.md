@@ -9,4 +9,4 @@ This script reads a report TSV file with isolate IDs and updates the `ANIm` colu
 ### Usage
 
 #### in Linux Terminal ######
-python update_anim_column.py
+python Extract_ANI_Column.py
